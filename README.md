@@ -3,9 +3,9 @@ The "Pic Orbit" game. Allows you to view your favorite images spinning in a fant
 
 I created this a year ago without using github; this is the initial commit.
 
-Download and extract PicOrbitBuild7.rar
-Download and extract the assets.rar folder if you want sample images and music
-Run 'Pic Orbit 7.exe', at the image path prompt, enter the full path to the folder containing your pictures
+- Download and extract PicOrbitBuild7.rar
+- Download and extract the assets.rar folder if you want sample images and music
+- Run 'Pic Orbit 7.exe', at the image path prompt, enter the full path to the folder containing your pictures
 
 Fun facts, I made the images and music in the assests folder!
 
