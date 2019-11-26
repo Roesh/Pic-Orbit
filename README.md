@@ -12,20 +12,21 @@ Fun facts, I made the images and music in the assests folder!
 Controls for the 3D image viewing scene
 =
 
-WASD or arrows - Moveup/down, rotate camera left and right
-Ctrl  + W/S - Zoom in/out
-Alt + WASD - tilt camera
+- WASD or arrows - Moveup/down, rotate camera left and right
+- Ctrl  + W/S - Zoom in/out
+- Alt + WASD - tilt camera
 
-F5 to reset camera tilt and rotation
-F6 showcase mode - camera moves up and down automatically
+- F5 to reset camera tilt and rotation
+- F6 showcase mode - camera moves up and down automatically
 
 
 Controls for 2D image viewing
 =
 Click on an image to openup a closeup of the image.
+
 Controls:
-Num 2/3 - Zoom out/in
-Num 1 - reset transform and scaling
-Pg up/down - Rotate anticlockwise/clockwise
-WASD - pan
-Tab/ Shift Tab - Next/ previous image
+- Num 2/3 - Zoom out/in
+- Num 1 - reset transform and scaling
+- Pg up/down - Rotate anticlockwise/clockwise
+- WASD - pan
+- Tab/ Shift Tab - Next/ previous image
