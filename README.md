@@ -30,3 +30,7 @@ Controls:
 - Pg up/down - Rotate anticlockwise/clockwise
 - WASD - pan
 - Tab/ Shift Tab - Next/ previous image
+
+Video preview
+=
+https://www.youtube.com/embed/LS3rMBu4xls
