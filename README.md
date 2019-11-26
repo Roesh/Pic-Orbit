@@ -1,5 +1,5 @@
 # Pic-Orbit
-The "Pic Orbit" game. Allows you to view your favorite images spinning in a fantastic, interactive arena
+The "Pic Orbit" app. Allows you to view your favorite images spinning in a fantastic, interactive arena
 
 I created this a year ago without using github; this is the initial commit.
 
